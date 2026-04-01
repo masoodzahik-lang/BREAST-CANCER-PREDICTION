@@ -161,11 +161,5 @@ python main.py
 - Seaborn  
 - Scikit-learn  
 
----
-
-## 👨‍💻 Author
-Your Name
-
----
 
 ⭐ Star this repo if you found it useful!
